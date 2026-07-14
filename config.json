@@ -1,0 +1,111 @@
+{
+  "serverName": "F-M Development",
+  "description": "F-M Development är en seriös FiveM-rollspelsserver som grundades av FM-JF.",
+  "discordUrl": "https://discord.gg/ZtR32qmPRx",
+  "tebexUrl": "https://fm-development.tebex.io/",
+
+  "discordCard": {
+    "title": "DISCORD SERVER",
+    "description": "Se till att du är med i F-M Development Discord. Anslut, tävla och håll dig uppdaterad om vad som händer i communityn!",
+    "url": "https://discord.gg/ZtR32qmPRx"
+  },
+
+  "team": [
+    {
+      "name": "FM-JF",
+      "role": "Ägare",
+      "avatar": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/972038654ad9035b86fe7d75981be5c5.jpg"
+    }
+  ],
+
+  "rules": [
+    "Ingen metagaming: Använd inte information utanför rollspel (OOC) för att påverka din karaktärs handlingar (IC).",
+    "Ingen powergaming: Tvinga inte fram handlingar på andra spelare och gör inte orealistiska saker som din karaktär inte skulle kunna göra.",
+    "Ingen combat logging: Logga inte ut under pågående situationer, såsom strider eller gripanden.",
+    "Respektera karaktärsroller: Agera inte som polis, sjukvårdare eller någon annan yrkesroll om din karaktär inte har den rollen.",
+    "Värna om din karaktärs liv: Utsätt inte din karaktär för onödiga eller hänsynslösa risker utan en rimlig anledning."
+  ],
+
+  "gallery": [
+    "https://media.discordapp.net/attachments/1343451660491558932/1471872030688415866/image.png?ex=69ac32a6&is=69aae126&hm=b72caf90d97ae8f023ebe663d2b71fa992b42a36651f5062cf730c131e05b172&=&format=webp&quality=lossless&width=1523&height=856",
+    "https://media.discordapp.net/attachments/1343451660491558932/1471364339775836191/Screenshot_2026-02-12_043352.png?ex=69ac5413&is=69ab0293&hm=a9ba0cfa7e35f0f5cf6f3c5ce249afda5da555878ae0653cea9f76c4fa60d0f6&=&format=webp&quality=lossless&width=1523&height=856",
+    "https://media.discordapp.net/attachments/1343451660491558932/1470587391977852959/image.png?ex=69accc3c&is=69ab7abc&hm=aa12d558e522a9c86744bd65fcd9c2e69598522d7f617665194c77a2e726d1e8&=&format=webp&quality=lossless&width=1523&height=856",
+    "https://media.discordapp.net/attachments/1343451660491558932/1469742363617263666/Screenshot_2026-02-05_160643.png?ex=69ac5c3d&is=69ab0abd&hm=4df5482426d3bcd1f33565ca8a6a8c7135c1fd416ef6a3ab319502770e92441e&=&format=webp&quality=lossless&width=1523&height=856"
+  ],
+
+  "music": [
+
+        {
+      "title": "Intro",
+      "artist": "Lil O",
+      "cover": "https://i.ytimg.com/vi/0dXXExcX4uo/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgZShjMA8=&rs=AOn4CLAsGP57sxkdlqHtevhtaS17rnWwnw",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YTMP3GG_YouTube_Lil-O-Intro_Media_0dXXExcX4uo_001_1080p.mp4"
+    },
+
+    
+    {
+      "title": "Lizzy",
+      "artist": "Hzino",
+      "cover": "https://i.scdn.co/image/ab67616d00001e026f92db8415ff0516e846e947",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/HZINO-%20LIZZY%20STUDIO%20FREESTYLE%20EP%201%20(OFFICIAL%20VIDEO)_1080p%20(1).mp4"
+    },
+
+    {
+      "title": "Allegedly",
+      "artist": "Lil Zino",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8U6Cy-cNJlNCTTUZQ0q5jG-TDFx_J-8dmA&s",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lil%20Zino%20-%20Allegedly%20(Official%20Video)_1080p.mp4"
+    },
+
+    {
+      "title": "No Mannerz",
+      "artist": "YB5HUNNA x ABZ1UP5",
+      "cover": "https://i.ytimg.com/vi/HXLgcfvVjJo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBsDqecTNzb9ebaxpkLZU0EvMBqug",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YB5HUNNA%20x%20ABZ1UP5%20-%20NO%20MANNERZ%20(%20OFFICIAL%20MUSIC%20VIDEO)%20-%20STREETFLOW%20LTD%20(1080p).mp4"
+    },
+
+    {
+      "title": "Yeah Baby",
+      "artist": "D Block Europe Young Adz",
+      "cover": "https://i.scdn.co/image/ab67616d00001e029f12296268c9221ff998bb3b",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/D-Block%20Europe%20(Young%20Adz)%20YEAH%20BABY%20%5BOfficial%20Video%5D_1080p.mp4"
+    },
+
+    {
+      "title": "Live Large",
+      "artist": "Zinii",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737857a4ff22fd9c2aee7fb59b",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Zinii%20-%20Live%20Large%20(Official%20Music%20Video)%20Reupload%20-%20waveoverdrill%20(1080p).mp4"
+    },
+
+    {
+      "title": "Hypebeast",
+      "artist": "Lkay80m",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27316295c4dd944738deaa841b2",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lkay80m%20-%20Hypebeast%20(Official%20Music%20Video)_1080p.mp4"
+    },
+
+    {
+      "title": "Ms UP",
+      "artist": "Saint Santana",
+      "cover": "https://images.genius.com/435b4023d9b144642cf6d40d0a463989.225x225x1.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/SAINT%20SANTANNA%20-%20M'S%20UP%20%5BOfficial%20Music%20Video%5D%20-%20SaintSantanna%20(1080p).mp4"
+    },
+
+    {
+      "title": "OOOWE",
+      "artist": "Hzino",
+      "cover": "https://resources.tidal.com/images/ac833f58/d86b/444e/b0ef/a24e7a29c43c/750x750.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YTMP3GG_YouTube_HZINO-OOOWE-STUDIO-FREESTYLE-EP-2-OFFICI_Media_z_irPa7PBV0_001_1080p.mp4"
+    },
+
+    
+
+    {
+      "title": "Yo Yo",
+      "artist": "Chy Cartier",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d6f53db8b6ccf267c96288f4",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Chy%20Cartier%20-%20YO%20(Official%20Lyric%20Video)%20-%20CHY%20CARTIER%20(1080p).mp4"
+    }
+  ]
+}
