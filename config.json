@@ -1,12 +1,12 @@
 {
-  "serverName": "F-M Development",
-  "description": "F-M Development är en seriös FiveM-rollspelsserver som grundades av FM-JF.",
-  "discordUrl": "https://discord.gg/ZtR32qmPRx",
+  "serverName": "Blåa Linjen Roleplay",
+  "description": "Blåa Linjen Roleplay är en seriös FiveM-rollspelsserver. Grundades av FM-JF.",
+  "discordUrl": "https://discord.gg/PTNJcrDhMa",
   "tebexUrl": "https://fm-development.tebex.io/",
 
   "discordCard": {
     "title": "DISCORD SERVER",
-    "description": "Se till att du är med i F-M Development Discord. Anslut, tävla och håll dig uppdaterad om vad som händer i communityn!",
+    "description": "Se till att du är med i Blåa Linjen Roleplay Discord. Anslut, tävla och håll dig uppdaterad om vad som händer i communityn!",
     "url": "https://discord.gg/ZtR32qmPRx"
   },
 
@@ -14,7 +14,7 @@
     {
       "name": "FM-JF",
       "role": "Ägare",
-      "avatar": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/972038654ad9035b86fe7d75981be5c5.jpg"
+      "avatar": "https://r2.fivemanage.com/dtGyRNMIn1OhEknBPA7Vq/pic.jpg"
     }
   ],
 
