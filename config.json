@@ -13,8 +13,14 @@
   "team": [
     {
       "name": "FM-JF",
-      "role": "Ägare",
+      "role": "Founder",
       "avatar": "https://r2.fivemanage.com/dtGyRNMIn1OhEknBPA7Vq/pic.jpg"
+    }
+  ],
+    {
+      "name": "Owen",
+      "role": "Founder",
+      "avatar": "https://r2.fivemanage.com/dtGyRNMIn1OhEknBPA7Vq/owen.png"
     }
   ],
 
